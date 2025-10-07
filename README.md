@@ -59,3 +59,14 @@ Developed by: RegisterNumber:*/
 **Output/TIMING Waveform**
 
 **Result:**
+logic diagram for half adder:
+<img width="469" height="237" alt="Screenshot 2025-10-07 163359" src="https://github.com/user-attachments/assets/0c6a4d21-0f3c-41ee-977b-9ea796bbb045" />
+state diagram for half adder:
+<img width="1919" height="213" alt="Screenshot 2025-10-07 164453" src="https://github.com/user-attachments/assets/ff27533d-c518-454b-9af2-3b1a3400bfed" />
+logic diagram for half subtractor:
+<img width="501" height="233" alt="Screenshot 2025-10-07 165210" src="https://github.com/user-attachments/assets/0715471b-ac07-4e00-8eda-07075cd563d5" />
+state diagram for half subtractor:
+<img width="1918" height="204" alt="Screenshot 2025-10-07 165350" src="https://github.com/user-attachments/assets/581caed9-c56c-4cd7-a95a-612cc7df88ed" />
+thus the given logic functions are implemented using and theiroperations are verilog programming.
+
+
